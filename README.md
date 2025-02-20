@@ -9,3 +9,4 @@ This project automates catalog processing, PDF generation, email sending, and sy
 4. Install dependencies: `pip install -r requirements.txt`
 5. Create and configure your .env file with the required credentials
 6. Run the script: `python automation_script.py`
+# Automated-IT-Operations
