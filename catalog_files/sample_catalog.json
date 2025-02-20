@@ -1,0 +1,7 @@
+{
+  "name": "Sample Product",
+  "price": 29.99,
+  "description": "This is a sample product for testing",
+  "sku": "SAMPLE001",
+  "in_stock": true
+}

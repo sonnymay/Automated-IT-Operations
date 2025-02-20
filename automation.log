@@ -1,0 +1,14 @@
+2025-02-20 00:30:38,266 - INFO - System health: {'cpu': 17.7, 'disk': 6.9, 'memory': 86.1, 'timestamp': '2025-02-20T00:30:38.266762'}
+2025-02-20 00:30:38,267 - INFO - Successfully processed 0 catalog items
+2025-02-20 00:30:38,270 - INFO - PDF report generated: /Users/santipapmay/Desktop/IT_Automation_Project/output/catalog_report.pdf
+2025-02-20 00:30:38,320 - ERROR - Error sending email: [Errno 8] nodename nor servname provided, or not known
+2025-02-20 00:30:38,320 - ERROR - Error in main execution: [Errno 8] nodename nor servname provided, or not known
+2025-02-20 00:34:32,867 - INFO - System health: {'cpu': 7.5, 'disk': 6.9, 'memory': 85.9, 'timestamp': '2025-02-20T00:34:32.867169'}
+2025-02-20 00:34:32,868 - INFO - Successfully processed 0 catalog items
+2025-02-20 00:34:32,871 - INFO - PDF report generated: /Users/santipapmay/Desktop/IT_Automation_Project/output/catalog_report.pdf
+2025-02-20 00:34:34,022 - ERROR - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-4eea668776esm1470170173.43 - gsmtp')
+2025-02-20 00:34:34,023 - ERROR - Error in main execution: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-4eea668776esm1470170173.43 - gsmtp')
+2025-02-20 00:38:09,186 - INFO - System health: {'cpu': 12.2, 'disk': 7.0, 'memory': 86.0, 'timestamp': '2025-02-20T00:38:09.185894'}
+2025-02-20 00:38:09,187 - INFO - Successfully processed 0 catalog items
+2025-02-20 00:38:09,191 - INFO - PDF report generated: /Users/santipapmay/Desktop/IT_Automation_Project/output/catalog_report.pdf
+2025-02-20 00:38:12,569 - INFO - Email sent successfully
