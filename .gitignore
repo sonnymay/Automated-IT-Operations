@@ -3,3 +3,15 @@ venv/
 __pycache__/
 *.pyc
 output/
+.env
+.env
+.env
+venv/
+output/
+__pycache__/
+*.pyc
+.env
+venv/
+output/
+__pycache__/
+*.pyc
